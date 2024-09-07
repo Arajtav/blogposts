@@ -1,3 +1,4 @@
 [
-    {"image": "/img/hi.webp", "title": "Hi!", "description": "First blog post, about me", "tags": ["about me"], "file": "/short_hi.md", "date": "2024-08-16T00:20:00.000Z"}
+    {"image": "/img/hi.webp",        "title": "Hi!",                   "description": "First blog post, about me",   "tags": ["about me"], "file": "/short_hi.md",  "date": "2024-08-16T00:20:00.000Z"},
+    {"image": "/img/blog_test.webp", "title": "New album / Blog test", "description": "I needed to write something", "tags": ["music"],    "file": "/blog_test.md", "date": "2024-09-07T21:18:00.000Z"}
 ]
